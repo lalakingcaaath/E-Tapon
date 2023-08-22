@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1050327976797",
+    "firebase_url": "https://e-tapon-9cefd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "e-tapon-9cefd",
+    "storage_bucket": "e-tapon-9cefd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050327976797:android:d473e5894f77387cf936b4",
+        "android_client_info": {
+          "package_name": "com.example.e_tapon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050327976797-1fscumsvrfeveeqj4t39qclg0utpgfql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_1yoKFusZpfCpXIaDRNfWQ1rAhEoqzE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050327976797-1fscumsvrfeveeqj4t39qclg0utpgfql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050327976797:android:4dddc24abc567706f936b4",
+        "android_client_info": {
+          "package_name": "com.example.e_taponfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050327976797-1fscumsvrfeveeqj4t39qclg0utpgfql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_1yoKFusZpfCpXIaDRNfWQ1rAhEoqzE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050327976797-1fscumsvrfeveeqj4t39qclg0utpgfql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050327976797:android:47c9bd0a29be375ff936b4",
+        "android_client_info": {
+          "package_name": "com.example.etaponmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050327976797-1fscumsvrfeveeqj4t39qclg0utpgfql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_1yoKFusZpfCpXIaDRNfWQ1rAhEoqzE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050327976797-1fscumsvrfeveeqj4t39qclg0utpgfql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
